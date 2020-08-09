@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/aboutus.java" added="2018-01-03T11:16:40Z" modified="2018-01-10T12:41:43Z" visited="2018-01-03T11:16:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:41:43Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-10T11:41:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/viewdate.java" added="2018-01-03T11:18:35Z" modified="2018-01-10T12:44:17Z" visited="2018-01-03T11:18:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:44:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/change.java" added="2018-01-03T11:19:38Z" modified="2018-01-10T12:41:50Z" visited="2018-01-03T11:19:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:41:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/start.java" added="2018-01-10T11:43:10Z" modified="2018-01-10T12:43:43Z" visited="2018-01-10T11:43:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:43Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-10T11:43:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/main.java" added="2018-01-10T11:43:32Z" modified="2018-01-17T12:08:47Z" visited="2018-01-10T11:43:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-17T12:08:47Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-10T13:13:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/db.mdb" added="2018-01-10T12:39:08Z" modified="2018-01-10T12:39:08Z" visited="2018-01-10T12:39:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-access"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-01-10T12:39:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/delete.java" added="2018-01-10T12:41:29Z" modified="2018-01-10T12:42:04Z" visited="2018-01-10T12:41:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/DBConn.java" added="2018-01-10T12:41:58Z" modified="2018-01-30T05:38:30Z" visited="2018-01-10T12:41:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-30T05:38:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/deletebymobile.java" added="2018-01-10T12:42:11Z" modified="2018-01-10T12:42:11Z" visited="2018-01-10T12:42:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/deletebysr.java" added="2018-01-10T12:42:16Z" modified="2018-01-10T12:42:16Z" visited="2018-01-10T12:42:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/help.java" added="2018-01-10T12:42:22Z" modified="2018-01-10T12:42:22Z" visited="2018-01-10T12:42:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/insert.java" added="2018-01-10T12:42:30Z" modified="2018-01-10T12:42:30Z" visited="2018-01-10T12:42:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/newcontact.java" added="2018-01-10T12:42:53Z" modified="2018-01-10T12:42:53Z" visited="2018-01-10T12:42:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:42:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/newuserpass.java" added="2018-01-10T12:43:02Z" modified="2018-01-10T12:43:02Z" visited="2018-01-10T12:43:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/pass.java" added="2018-01-10T12:43:11Z" modified="2018-01-10T12:43:11Z" visited="2018-01-10T12:43:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/search.java" added="2018-01-10T12:43:19Z" modified="2018-01-10T12:43:19Z" visited="2018-01-10T12:43:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/searchbymobile.java" added="2018-01-10T12:43:26Z" modified="2018-01-10T12:43:26Z" visited="2018-01-10T12:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/searchbyname.java" added="2018-01-10T12:43:32Z" modified="2018-01-10T12:43:32Z" visited="2018-01-10T12:43:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/update.java" added="2018-01-10T12:43:49Z" modified="2018-01-10T12:43:49Z" visited="2018-01-10T12:43:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:43:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/updatecontact.java" added="2018-01-10T12:44:00Z" modified="2018-01-10T12:44:00Z" visited="2018-01-10T12:44:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:44:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy%20code/viewall.java" added="2018-01-10T12:44:08Z" modified="2018-01-10T12:44:08Z" visited="2018-01-10T12:44:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gvim -f %f&apos;" modified="2018-01-10T12:44:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot.png" added="2018-02-09T09:55:16Z" modified="2005-01-01T00:20:16Z" visited="2018-02-09T09:55:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:20:16Z" count="8"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:20:16Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/main.java" added="2018-02-09T09:56:00Z" modified="2004-12-31T18:46:35Z" visited="2018-02-09T09:56:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2004-12-31T18:32:58Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2004-12-31T18:46:35Z" count="67"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/newcontact.java" added="2018-02-09T10:02:49Z" modified="2018-02-09T10:03:40Z" visited="2018-02-09T10:02:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-09T10:03:40Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/DBConn.java" added="2018-02-09T10:04:01Z" modified="2005-01-01T02:23:05Z" visited="2018-02-09T10:04:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2005-01-01T02:23:05Z" count="18"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2005-01-01T02:22:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-11.png" added="2018-02-09T10:13:19Z" modified="2005-01-01T00:27:16Z" visited="2018-02-09T10:13:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:27:15Z" count="5"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:27:16Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-8.png" added="2018-02-09T10:13:52Z" modified="2005-01-01T00:25:09Z" visited="2018-02-09T10:13:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:25:09Z" count="3"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:25:09Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/update.java" added="2018-02-09T10:14:07Z" modified="2005-01-01T01:56:52Z" visited="2018-02-09T10:14:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2005-01-01T01:56:52Z" count="11"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2005-01-01T01:50:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/start.java" added="2018-02-09T10:17:41Z" modified="2018-02-09T10:17:41Z" visited="2018-02-09T10:17:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-09T10:17:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/aboutus.java" added="2018-02-09T10:26:54Z" modified="2005-01-01T00:52:48Z" visited="2018-02-09T10:26:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2005-01-01T00:52:48Z" count="15"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2005-01-01T00:31:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/insert.java" added="2018-02-09T10:27:46Z" modified="2018-02-09T10:27:46Z" visited="2018-02-09T10:27:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-09T10:27:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/pass.java" added="2004-12-31T18:48:58Z" modified="2004-12-31T18:55:18Z" visited="2004-12-31T18:48:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2004-12-31T18:55:18Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/db.sql" added="2004-12-31T18:50:34Z" modified="2005-01-01T02:08:12Z" visited="2004-12-31T18:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-sql"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2005-01-01T02:08:12Z" count="36"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2005-01-01T01:58:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/change.java" added="2004-12-31T18:53:44Z" modified="2004-12-31T18:55:38Z" visited="2004-12-31T18:53:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2004-12-31T18:55:38Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-9.png" added="2004-12-31T18:59:03Z" modified="2005-01-01T00:26:45Z" visited="2004-12-31T18:59:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T18:59:03Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:26:43Z" count="4"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:26:45Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-15.png" added="2004-12-31T18:59:10Z" modified="2005-01-01T00:30:09Z" visited="2004-12-31T18:59:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T18:59:10Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:30:08Z" count="4"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:30:09Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-12.png" added="2005-01-01T00:07:22Z" modified="2005-01-01T00:27:49Z" visited="2005-01-01T00:07:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:27:48Z" count="5"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:27:49Z" count="5"/>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:16:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-16.png" added="2005-01-01T00:07:58Z" modified="2005-01-01T00:08:10Z" visited="2005-01-01T00:07:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:07:58Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:08:09Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:08:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-2.png" added="2005-01-01T00:10:02Z" modified="2005-01-01T00:21:44Z" visited="2005-01-01T00:10:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:21:44Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:21:44Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-1.png" added="2005-01-01T00:10:05Z" modified="2005-01-01T00:21:13Z" visited="2005-01-01T00:10:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:21:12Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:21:13Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-3.png" added="2005-01-01T00:10:08Z" modified="2005-01-01T00:22:05Z" visited="2005-01-01T00:10:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:22:05Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:22:05Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-4.png" added="2005-01-01T00:10:11Z" modified="2005-01-01T00:22:52Z" visited="2005-01-01T00:10:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:22:52Z" count="4"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:22:52Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-5.png" added="2005-01-01T00:10:14Z" modified="2005-01-01T00:23:37Z" visited="2005-01-01T00:10:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:23:37Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:23:37Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-6.png" added="2005-01-01T00:10:17Z" modified="2005-01-01T00:19:04Z" visited="2005-01-01T00:10:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:10:17Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:19:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-7.png" added="2005-01-01T00:10:23Z" modified="2005-01-01T00:24:01Z" visited="2005-01-01T00:10:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:24:01Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:24:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-10.png" added="2005-01-01T00:10:37Z" modified="2005-01-01T00:27:02Z" visited="2005-01-01T00:10:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:27:01Z" count="3"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:27:02Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-9.1.png" added="2005-01-01T00:11:33Z" modified="2005-01-01T00:25:26Z" visited="2005-01-01T00:11:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:11:33Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:25:26Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:25:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-9.2.png" added="2005-01-01T00:12:39Z" modified="2005-01-01T00:25:45Z" visited="2005-01-01T00:12:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:12:39Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:25:45Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:25:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-13.png" added="2005-01-01T00:13:50Z" modified="2005-01-01T00:28:49Z" visited="2005-01-01T00:13:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:28:49Z" count="7"/>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:17:24Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:28:49Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-14.png" added="2005-01-01T00:13:50Z" modified="2005-01-01T00:13:50Z" visited="2005-01-01T00:13:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:13:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Screenshot-9.3.png" added="2005-01-01T00:15:35Z" modified="2005-01-01T00:26:24Z" visited="2005-01-01T00:15:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:15:35Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:26:24Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:26:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Update%20Form.png" added="2005-01-01T00:22:46Z" modified="2005-01-01T00:22:46Z" visited="2005-01-01T00:22:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:22:46Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2005-01-01T00:22:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Help.png" added="2005-01-01T00:28:17Z" modified="2004-12-31T21:22:26Z" visited="2005-01-01T00:28:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:28:17Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:22:26Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Search.png" added="2005-01-01T00:29:18Z" modified="2004-12-31T21:10:35Z" visited="2005-01-01T00:29:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:29:18Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/New%20User.png" added="2005-01-01T00:29:22Z" modified="2004-12-31T21:10:34Z" visited="2005-01-01T00:29:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:34Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:29:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Main%20Form.png" added="2005-01-01T00:29:22Z" modified="2004-12-31T21:22:29Z" visited="2005-01-01T00:29:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:22:29Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:29:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Login%20Window.png" added="2005-01-01T00:29:59Z" modified="2004-12-31T21:22:27Z" visited="2005-01-01T00:29:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2005-01-01T00:29:59Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:22:27Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/About%20Us.png" added="2005-01-01T00:54:09Z" modified="2004-12-31T21:10:25Z" visited="2005-01-01T00:54:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2005-01-01T00:54:09Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:10:25Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Project/dummy_code/viewall.java" added="2005-01-01T02:16:08Z" modified="2005-01-01T02:16:08Z" visited="2005-01-01T02:16:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2005-01-01T02:16:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Change%20Password.png" added="2004-12-31T21:10:29Z" modified="2004-12-31T21:10:29Z" visited="2004-12-31T21:10:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Delete%20Form.png" added="2004-12-31T21:10:30Z" modified="2004-12-31T21:10:30Z" visited="2004-12-31T21:10:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Entry%20Form.png" added="2004-12-31T21:10:31Z" modified="2004-12-31T21:22:04Z" visited="2004-12-31T21:10:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:22:04Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:22:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Update%20Appointment.png" added="2004-12-31T21:10:36Z" modified="2004-12-31T21:10:36Z" visited="2004-12-31T21:10:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Update%20First.png" added="2004-12-31T21:10:38Z" modified="2004-12-31T21:10:38Z" visited="2004-12-31T21:10:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:10:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/insertvalidation.png" added="2004-12-31T21:11:48Z" modified="2004-12-31T21:11:48Z" visited="2004-12-31T21:11:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:11:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validation%20update.png" added="2004-12-31T21:12:24Z" modified="2004-12-31T21:12:24Z" visited="2004-12-31T21:12:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:12:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validation%20duration.png" added="2004-12-31T21:12:55Z" modified="2004-12-31T21:12:55Z" visited="2004-12-31T21:12:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:12:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validation%20appointment.png" added="2004-12-31T21:14:08Z" modified="2004-12-31T21:14:08Z" visited="2004-12-31T21:14:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:14:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Update%20Previous.png" added="2004-12-31T21:14:46Z" modified="2004-12-31T21:14:46Z" visited="2004-12-31T21:14:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:14:46Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:14:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validation%20appointment.png" added="2004-12-31T21:15:28Z" modified="2004-12-31T21:15:36Z" visited="2004-12-31T21:15:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:15:36Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:15:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validation%20date.png" added="2004-12-31T21:16:24Z" modified="2004-12-31T21:16:24Z" visited="2004-12-31T21:16:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:16:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validation%20date.png" added="2004-12-31T21:17:20Z" modified="2004-12-31T21:26:23Z" visited="2004-12-31T21:17:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:17:20Z" count="1"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validationlogin.png" added="2004-12-31T21:18:17Z" modified="2004-12-31T21:18:17Z" visited="2004-12-31T21:18:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:18:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validationpasslogin.png" added="2004-12-31T21:18:38Z" modified="2004-12-31T21:18:38Z" visited="2004-12-31T21:18:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:18:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validationcp.png" added="2004-12-31T21:19:09Z" modified="2004-12-31T21:19:09Z" visited="2004-12-31T21:19:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:19:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/validationcp1.png" added="2004-12-31T21:19:29Z" modified="2004-12-31T21:19:29Z" visited="2004-12-31T21:19:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2004-12-31T21:19:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/insertvalidation.png" added="2004-12-31T21:20:01Z" modified="2004-12-31T21:26:17Z" visited="2004-12-31T21:20:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2004-12-31T21:26:17Z" count="2"/>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validationcp.png" added="2004-12-31T21:20:03Z" modified="2004-12-31T21:26:23Z" visited="2004-12-31T21:20:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validationcp1.png" added="2004-12-31T21:20:04Z" modified="2004-12-31T21:26:23Z" visited="2004-12-31T21:20:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validation%20duration.png" added="2004-12-31T21:20:06Z" modified="2004-12-31T21:26:24Z" visited="2004-12-31T21:20:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:24Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validationlogin.png" added="2004-12-31T21:20:06Z" modified="2004-12-31T21:26:24Z" visited="2004-12-31T21:20:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:26:24Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validationpasslogin.png" added="2004-12-31T21:20:07Z" modified="2004-12-31T21:20:10Z" visited="2004-12-31T21:20:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:20:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///exports/BG20/Validations%20screenshot/validation%20update.png" added="2004-12-31T21:20:08Z" modified="2004-12-31T21:20:11Z" visited="2004-12-31T21:20:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eye of GNOME Image Viewer" exec="&apos;eog %u&apos;" modified="2004-12-31T21:20:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

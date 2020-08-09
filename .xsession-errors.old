@@ -1,0 +1,255 @@
+MainThread 2005/01/01 07:52:08.0852 (sabayon-apply): No profile for user 'BG20' found
+No profile for user 'BG20' found
+MainThread 2005/01/01 07:52:08.0853 (sabayon-apply): Fatal exception!  Exiting abnormally.
+MainThread 2005/01/01 07:52:08.0855 (sabayon-apply): Traceback (most recent call last):
+  File "/usr/sbin/sabayon-apply", line 149, in <module>
+    sys.exit (util.EXIT_CODE_NO_USER_PROFILE)
+SystemExit: 3
+
+===== BEGIN MILESTONES (/usr/sbin/sabayon-apply) =====
+MainThread 2005/01/01 07:52:08.0852 (sabayon-apply): No profile for user 'BG20' found
+MainThread 2005/01/01 07:52:08.0853 (sabayon-apply): Fatal exception!  Exiting abnormally.
+MainThread 2005/01/01 07:52:08.0855 (sabayon-apply): Traceback (most recent call last):
+  File "/usr/sbin/sabayon-apply", line 149, in <module>
+    sys.exit (util.EXIT_CODE_NO_USER_PROFILE)
+SystemExit: 3
+
+===== END MILESTONES (/usr/sbin/sabayon-apply) =====
+===== BEGIN RING BUFFER (/usr/sbin/sabayon-apply) =====
+MainThread 2005/01/01 07:52:08.0852 (sabayon-apply): No profile for user 'BG20' found
+MainThread 2005/01/01 07:52:08.0853 (sabayon-apply): Fatal exception!  Exiting abnormally.
+MainThread 2005/01/01 07:52:08.0855 (sabayon-apply): Traceback (most recent call last):
+  File "/usr/sbin/sabayon-apply", line 149, in <module>
+    sys.exit (util.EXIT_CODE_NO_USER_PROFILE)
+SystemExit: 3
+
+===== END RING BUFFER (/usr/sbin/sabayon-apply) =====
+
+
+This configuration for the debug log can be re-created
+by putting the following in ~//etc/sabayon/sabayon-debug-log.conf
+(use ';' to separate domain names):
+
+[debug log]
+max lines = 1000
+`/projects/.bashrc' -> `/exports/BG20/.bashrc'
+`/projects/apache-tomcat-6.0.26.tar.gz' -> `/exports/BG20/apache-tomcat-6.0.26.tar.gz'
+GNOME_KEYRING_SOCKET=/tmp/keyring-gcAWCL/socket
+SSH_AUTH_SOCK=/tmp/keyring-gcAWCL/socket.ssh
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+E: core-util.c: Home directory /exports/BG20 not ours.
+W: lock-autospawn.c: Cannot access autospawn lock.
+E: main.c: Failed to acquire autospawn lock
+Home directory /exports/BG20 not ours.
+Failed to play sound: Not available
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+
+(polkit-gnome-authentication-agent-1:8345): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:8345): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now removed from the notification area
+
+** (gnome-panel:8287): CRITICAL **: panel_applet_frame_change_background: assertion `PANEL_IS_WIDGET (GTK_WIDGET (frame)->parent)' failed
+** Message: applet now embedded in the notification area
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+
+(nautilus:8288): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+
+(nautilus:8288): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+
+(gedit:8767): IBUS-WARNING **: The owner of /exports/BG20/.config/ibus/bus is not BG20!
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+Home directory /exports/BG20 not ours.
+
+** (gnome-volume-control-applet:8312): WARNING **: Connection failed, reconnecting...
+
+(gnome-power-manager:8323): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+** Message: applet now removed from the notification area
+
+** (gnome-panel:8287): WARNING **: Failed to send buffer
+
+** (gnome-panel:8287): WARNING **: Failed to send buffer
+
+** (nautilus:8288): WARNING **: Failed to send buffer
+
+** (nautilus:8288): WARNING **: Failed to send buffer
+Home directory /exports/BG20 not ours.
+
+** (gnome-settings-daemon:8262): WARNING **: Connection failed, reconnecting...
+
+(polkit-gnome-authentication-agent-1:8345): polkit-gnome-1-WARNING **: Error enumerating temporary authorizations: Remote Exception invoking org.freedesktop.PolicyKit1.Authority.EnumerateTemporaryAuthorizations() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+gnome-volume-control-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+abrt-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+seapplet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gpk-update-icon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+The application 'gnome-panel' lost its connection to the display :0.0;
+most likely the X server was shut down or you killed/destroyed
+the application.
